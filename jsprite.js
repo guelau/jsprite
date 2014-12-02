@@ -1,6 +1,5 @@
 /*!
  * jQuery lightweight plugin boilerplate
- * Based on the jQuery lightweight plugin boilerplate by @ajpiano
  * Licensed under the MIT license
  */
 ;(function ( $, window, document, undefined ) {
